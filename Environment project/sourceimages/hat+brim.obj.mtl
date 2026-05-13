@@ -1,0 +1,19 @@
+# File produced by Tripo
+
+newmtl tripo_mat_79df58cd
+Kd 0.80000001 0.80000001 0.80000001
+Ka 0.00000000 0.00000000 0.00000000
+Ks 0.80000001 0.80000001 0.80000001
+Ke 0.00000000 0.00000000 0.00000000
+Tf 0.00000000 0.00000000 0.00000000
+d 1.00000000
+illum 1
+map_Kd hat+brim.obj_basecolor.jpg
+map_Ns assimpjs_tex_3.jpg
+map_Kn hat+brim.obj_normal.jpg
+norm hat+brim.obj_normal.jpg
+map_Bump -bm 1.000000 hat+brim.obj_normal.jpg
+bump -bm 1.000000 hat+brim.obj_normal.jpg
+map_refl assimpjs_tex_2.jpg
+map_Pm assimpjs_tex_2.jpg
+
